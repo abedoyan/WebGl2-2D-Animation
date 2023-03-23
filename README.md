@@ -2,6 +2,12 @@
 
 My first attempts at creating 2D animation using WebGL2. This code uses one html file, one JavaScript file, and multiple GLSL and JSON files.
 
+To run the code:
+1) Download the files in this repository
+2) Open a terminal and go to the location where you saved these files
+3) Enter ```python -m http.server``` in your terminal
+4) Navigate to http://localhost:8000/mp2.html
+
 The final program will have buttons to choose which animation to show. Examples of some the animations included are below. 
 
 Spinning and shrinking Illini logo:
