@@ -8,7 +8,7 @@ To run the code:
 3) Enter ```python -m http.server``` in your terminal
 4) Navigate to http://localhost:8000/mp2.html
 
-The final program will have buttons to choose which animation to show. Examples of some the animations included are below. 
+The final program will have buttons to choose which animation to show. Examples of some of the animations included are below. 
 
 # Spinning and shrinking Illini logo:
 
