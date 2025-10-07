@@ -1,4 +1,4 @@
-# WebGl2-2D-Animation
+# WebGL2-2D-Animation
 
 My first attempts at creating 2D animation using WebGL2. This code uses one html file, one JavaScript file, and multiple GLSL and JSON files.
 
